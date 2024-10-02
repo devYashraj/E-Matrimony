@@ -1,8 +1,5 @@
 # E-Matrimony
-<<<<<<< HEAD
 A web based matrimony portal built using CodeIgniter 4
-=======
-A web based matrimony portal built using CodeIgnitor 4
 
 <br>
 <br>
@@ -27,4 +24,3 @@ https://github.com/devYashraj/E-Matrimony/assets/76515550/9af7b8a0-1274-47d4-9fb
 https://github.com/devYashraj/E-Matrimony/assets/76515550/cc6ffd80-f930-41fa-a7b4-cfb26b097ea4
 
 
->>>>>>> 548e6504e0843f0f468043076f7ff4920939c059
